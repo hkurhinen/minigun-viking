@@ -1,0 +1,7 @@
+mastervolume:58
+musicvolume:56
+othervolume:50
+gunvolume:62
+screenwidth:1920
+screenheight:1200
+fullscreen:1
