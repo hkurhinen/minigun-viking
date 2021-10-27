@@ -1,0 +1,7 @@
+mastervolume:50
+musicvolume:50
+othervolume:50
+gunvolume:50
+screenwidth:1280
+screenheight:720
+fullscreen:0
